@@ -20,7 +20,7 @@
   "dependencies": {
     "diff": "1.0.7",
     "mkdirp": "0.5.1",
-    "mocha": "^3.0.0",
+    "mocha": "^5.1.1",
     "xml": "^1.0.1"
   },
   "author": "Juho Vähä-Herttua",
